@@ -62,7 +62,7 @@ const Stopwatch = () => {
       </main>
       <button className="github">
         {" "}
-        <a href="#"> Github </a>
+        <a href="https://github.com/aarsh21/stopwatch-react"> Github </a>
       </button>
     </>
   );
